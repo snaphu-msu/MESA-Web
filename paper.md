@@ -29,7 +29,7 @@ A well written summary.
 
 # Statement of need 
 
-Stellar evolution codes can be complicated to use, so we are offering MESA-Web, a web-based interface to the stellar evolution code, Modules for Experiments in Stellar Astrophysics $\texttt{MESA}$ [@Paxton_2011_aa,]. 
+Stellar evolution codes can be complicated to use, so we are offering MESA-Web, a web-based interface to the stellar evolution code, Modules for Experiments in Stellar Astrophysics $\texttt{MESA}$ [@paxton:2011]. 
 
 MESA-Web can be used for education purposes to calculate stellar models over a range of physical parameters, extending capabilities of similar online tools such as Rich Townsend's EZ-Web.
 
