@@ -9,9 +9,9 @@ tags:
 authors:
   - name: Carl E. Fields^[Graduate Research Fellow, National Science Foundation]
     orcid: 0000-0002-8925-057X
-    affiliation: "1, 2,3" 
+    affiliation: "1,2,3" 
   - name: Frank X. Timmes
-    affiliation: 4
+    affiliation: "4"
 affiliations:
  - name: Department of Physics & Astronomy, Michigan State University
    index: 1
